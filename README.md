@@ -1,2 +1,2 @@
 # Linked-List
-This project was to get familiar with implementing linked lists
+The primary objective of this project was to gain proficiency in implementing linked lists.
